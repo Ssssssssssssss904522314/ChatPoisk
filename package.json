@@ -1,0 +1,15 @@
+{
+  "name": "chatpoisk",
+  "version": "1.0.0",
+  "description": "Telegram search bot with per-chat search rankings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
